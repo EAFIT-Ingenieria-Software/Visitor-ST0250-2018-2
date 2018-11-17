@@ -10,6 +10,10 @@
 
 El patron visitor es uno de los patrones del GoF. Este se utiliza comunmente cuando se requiere operar sobre un elemento sin tener que modificar la estructura de su clase.
 
+## Diagrama de clases:
+
+![](https://i.imgur.com/ZkTDEjG.png)
+
 ## Lenguaje de programacion:
 
 - Java
@@ -17,3 +21,4 @@ El patron visitor es uno de los patrones del GoF. Este se utiliza comunmente cua
 ## Ejecucion:
 
 El repositorio es un proyecto de Netbeans, por lo que se puede importar a este IDE y ejecutar dentro de el. Otra alternativa es importar los archivos .java dentro de la carpeta src al IDE de eleccion y ejecutar el programa.
+
